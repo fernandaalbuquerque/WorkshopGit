@@ -1,12 +1,6 @@
-# Boas vindas ao Workshop de Git ✨
+# Fernanda ✨
 
 ## Instruções para começar
-
-Abra [a página de instruções](/INSTRUCTIONS.md) que contém o passo a passo para esse workshop, você voltará a este arquivo no passo 4 das instruções.
-
-Se você já está no passo 4, sinta-se a vontade para editar este arquivo, crie uma página pessoal em markdown, conte um pouco sobre você, quais suas expectativas para o hackathon, que habilidades você tem ou qualquer coisa que queira compartilhar com o mundo.
-
-Também delete esta sessão de instruções e modifique a primeira linha trocando "Boas vindas ao Workshop de Git" pelo seu nome por exemplo.
 
 ## Sobre
 
